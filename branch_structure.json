@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-124-quality-validate-generated-api-clients-against",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-124-quality-validate-generated-api-clients-against": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-124-quality-validate-generated-api-clients-against",
+    "origin"
+  ]
+}
